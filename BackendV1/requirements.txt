@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+openai
+torch
+ffmpeg-python
+whisper
+librosa
+soundfile
+pytesseract
+opencv-python
+ultralytics
